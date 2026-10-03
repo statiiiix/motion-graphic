@@ -1,0 +1,11 @@
+{
+  "name": "motion-graphic",
+  "owner": { "name": "statiiiix" },
+  "plugins": [
+    {
+      "name": "motion-reel",
+      "source": "./",
+      "description": "Beat-synced motion graphics made in code: product URL in, launch reel out."
+    }
+  ]
+}

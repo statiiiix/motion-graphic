@@ -1,0 +1,8 @@
+{
+  "name": "motion-reel",
+  "version": "1.0.0",
+  "description": "Beat-synced motion graphics made in code: /motion-reel turns a product URL into a launch reel with springs, a synthesized score, SFX and a self-critique loop.",
+  "author": { "name": "statiiiix" },
+  "repository": "https://github.com/statiiiix/motion-graphic",
+  "keywords": ["motion-graphics", "video", "launch-reel", "playwright", "ffmpeg"]
+}
