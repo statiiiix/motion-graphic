@@ -1,6 +1,11 @@
 {
   "name": "motion-graphic",
-  "owner": { "name": "statiiiix" },
+  "owner": {
+    "name": "statiiiix"
+  },
+  "metadata": {
+    "description": "Motion graphics made in code with Claude Code."
+  },
   "plugins": [
     {
       "name": "motion-reel",
